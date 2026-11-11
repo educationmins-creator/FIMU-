@@ -1,0 +1,5 @@
+Bender Regular
+Copyright (c) 2009 by Oleg Zhuravlev, Gladkikh Ivan.
+TypeType Free Fonts project: https://typetype.org/freefonts/
+Source: https://typetype.org/wp-content/uploads/Jovanny_Lemonad_Bender.otf
+Provided here in WOFF format for local web use.

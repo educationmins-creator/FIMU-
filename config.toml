@@ -1,0 +1,19 @@
+[server]
+enableStaticServing = true
+
+[theme]
+base = "dark"
+font = "Bender, Arial, sans-serif"
+primaryColor = "#C7A1FF"
+backgroundColor = "#100C1C"
+secondaryBackgroundColor = "#20182F"
+textColor = "#F4EFFA"
+borderColor = "#493958"
+dataframeHeaderBackgroundColor = "#2C203C"
+baseRadius = "small"
+
+[[theme.fontFaces]]
+family = "Bender"
+url = "app/static/fonts/Bender.woff"
+style = "normal"
+weight = 400
